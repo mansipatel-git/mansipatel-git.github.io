@@ -1,4 +1,29 @@
-#para1{
-  
-  background-color: FFA993;
+body {
+    background-color:#FFF0F5;
+
 }
+
+
+#para1 {
+  text-align: left;
+  background-color:#FFA993;
+}
+
+table, th, td {
+  border: 2px solid;
+  background-color: lightblue;
+ 
+}
+.pra {
+   background-color:#00FFFF;
+   
+}
+.sky {
+   background-color:#DB7093;
+   
+}
+.name {
+  background-image: url("paper.gif");
+  
+}
+
